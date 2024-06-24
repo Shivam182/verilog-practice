@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vmm
+!s110 1719247703
+!i10b 1
+!s100 cM4@CPfI;?a0V2NZU>ze90
+IO_LZ>^<@5fW?lm>RbD2UG2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/VLSI Design/verilog_practice/1_begin
+w1719247695
+8D:/VLSI Design/verilog_practice/1_begin/hello_world.v
+FD:/VLSI Design/verilog_practice/1_begin/hello_world.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1719247703.000000
+!s107 D:/VLSI Design/verilog_practice/1_begin/hello_world.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/1_begin/hello_world.v|
+!i113 1
+o-work work
+tCvgOpt 0
