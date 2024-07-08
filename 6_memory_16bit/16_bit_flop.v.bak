@@ -1,0 +1,39 @@
+module sixteen_bit_flop(
+	input clk, 
+	input rstn,
+	input sel,
+	input wr, 
+	
+	input [15:0] wr_data,
+	output [15:0] rd_data);
+
+
+	reg [15:0] register_memory;
+	
+
+	always @(posedge clk) begin 
+
+	  if(!rstn) begin 
+		
+		register_memory <= 0;
+	  end
+	  else begin
+
+		if (sel & wr) begin 
+		
+		register_memory <= wr_data;
+		end
+		else begin 
+		
+		register_memory <= register_memory;
+		end 
+
+
+	  end
+
+	end
+
+	
+	assign rd_data = (sel & ~wr) ? register_memory:0;
+
+endmodule 

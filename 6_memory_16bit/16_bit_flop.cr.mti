@@ -1,0 +1,8 @@
+{D:/VLSI Design/verilog_practice/6_memory_16bit/16_bit_flop.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/6_memory_16bit/16_bit_flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sixteen_bit_flop
+
+Top level modules:
+	sixteen_bit_flop
+
+} {} {}}
