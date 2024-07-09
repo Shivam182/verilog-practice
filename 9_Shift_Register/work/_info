@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/8_D_flip_flop
+vd_ff
+Z0 !s110 1720503752
+!i10b 1
+!s100 [2e4gcGg]MLaYZSie5R6i0
+I:lLDaU^dleNW0TTiUL@C[0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/VLSI Design/verilog_practice/9_Shift_Register
+w1720503745
+8../8_D_flip_flop/D_FF.v
+F../8_D_flip_flop/D_FF.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1720503752.000000
+Z5 !s107 ../8_D_flip_flop/D_FF.v|D:/VLSI Design/verilog_practice/9_Shift_Register/Shift_regeister.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/9_Shift_Register/Shift_regeister.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vshift_reg
+R0
+!i10b 1
+!s100 iCEh^=eoVLHaNbKA1I[oU0
+IPIeb3YQO7NUSfPn=>h3jk2
+R1
+R2
+w1720503593
+8D:/VLSI Design/verilog_practice/9_Shift_Register/Shift_regeister.v
+FD:/VLSI Design/verilog_practice/9_Shift_Register/Shift_regeister.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
