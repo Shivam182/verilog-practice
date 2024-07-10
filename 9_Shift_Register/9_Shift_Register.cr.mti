@@ -4,7 +4,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 -- Compiling module shift_reg
 
 Top level modules:
-	d_ff
 	shift_reg
 
 } {} {}}
