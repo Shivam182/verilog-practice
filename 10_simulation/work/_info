@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vassign_statements
+!s110 1720755679
+!i10b 1
+!s100 b5S2R70R>fROiV0Ib?eFI0
+I;_0]@aEh7mO^z^<V5nDBz0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/10_simulation
+w1720755677
+8D:/VLSI Design/verilog_practice/10_simulation/assign_statements.v
+FD:/VLSI Design/verilog_practice/10_simulation/assign_statements.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1720755679.000000
+!s107 D:/VLSI Design/verilog_practice/10_simulation/assign_statements.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/10_simulation/assign_statements.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtb
+!s110 1720759408
+!i10b 1
+!s100 cXMY]TS=5>2PK[TnC<N`20
+I[T<kH3Y[`I[_?j3CHi6ca3
+R0
+R1
+w1720759403
+8D:/VLSI Design/verilog_practice/10_simulation/test_bench.v
+FD:/VLSI Design/verilog_practice/10_simulation/test_bench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720759408.000000
+!s107 D:/VLSI Design/verilog_practice/10_simulation/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/10_simulation/test_bench.v|
+!i113 1
+R3
+R4
