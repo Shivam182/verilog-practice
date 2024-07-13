@@ -1,0 +1,35 @@
+module Relational_opr;
+
+reg [7:0] data1;
+reg [8:0] data2;
+
+
+	initial begin    
+
+	// NOTE :::: When both signals or anyone signal is/are X then output also X for any relational opr.
+
+
+	// data1 = 78;
+	// data2 = 4;
+	$display("%0d == %0d: %0b", data1, data2, data1 == data2);
+
+	// data1 = 78;
+	data2 = 4;
+	$display("%0d >= %0d: %0b", data1, data2, data1 >= data2);
+
+
+	data1 = 8;
+	data2 = 4;
+	$display("%0d <= %0d: %0b", data1, data2, data1 <= data2);
+
+	
+	
+
+
+	
+
+	end 
+
+
+
+endmodule 

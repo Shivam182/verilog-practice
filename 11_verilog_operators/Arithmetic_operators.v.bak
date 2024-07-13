@@ -1,0 +1,33 @@
+module Arithmetci_ops;
+	
+	reg [7:0] data1;
+	reg [7:0] data2;
+
+
+	initial begin 
+
+	data1 = 45;
+	data2 = 9;
+
+	$display("Addition: %0d + %0d = %0d", data1 , data2, data1+data2); // o/p : 54
+	
+	$display("Subtraction: %0d - %0d = %0d", data1, data2, data1 - data2); // o/p : 36
+
+
+	$display("Multiply: %0d * %0d = %0d", data1, data2, data1 * data2); // o/p: 149
+
+	
+	$display("Division: %0d / %0d = %0d", data1, data2, data1/data2); // o/p: 5
+
+	$display("Modulo: %0d %% %0d = %0d", data1, data2, data1%data2); // o/p: 0
+
+	$display("Power: %0d power 2 = %0d", data1, data1**2); // o/p: 
+
+
+	end 
+
+
+
+
+
+endmodule 

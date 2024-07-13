@@ -1,0 +1,141 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/10_simulation
+vArithmetci_ops
+!s110 1720847160
+!i10b 1
+!s100 Xn9dbRIj6@X1gl;jZOBPf3
+Id=KVzmE3Tf@k>J3O<iM0]3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/11_verilog_operators
+w1720846382
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1720847160.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@arithmetci_ops
+vBitwise_opr
+!s110 1720850716
+!i10b 1
+!s100 O2fElX^o6D?OUnIXA1I_W2
+ISPXjPk78gm:0dch5?7SV71
+R0
+R1
+w1720850375
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720850716.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v|
+!i113 1
+R3
+R4
+n@bitwise_opr
+vEquality_opr
+!s110 1720849132
+!i10b 1
+!s100 Lmc`kLDNf:E<cbSnGSI`O1
+IE2AFV@^E<B9g^m9PBFCg70
+R0
+R1
+w1720849091
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720849132.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v|
+!i113 1
+R3
+R4
+n@equality_opr
+vlogical_opr
+!s110 1720849627
+!i10b 1
+!s100 IP[T4><E1j05oR>GK5ba`1
+I^9?Bg[VUWKOJE`=RPMVTI1
+R0
+R1
+w1720849625
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720849627.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v|
+!i113 1
+R3
+R4
+vRelational_opr
+!s110 1720848626
+!i10b 1
+!s100 eTMWD^hIPML0R^ng^``Yh1
+IBdz?DG`UP=VYKi:YgSW?f0
+R0
+R1
+w1720848618
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720848626.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v|
+!i113 1
+R3
+R4
+n@relational_opr
+vShift_opr
+!s110 1720850960
+!i10b 1
+!s100 oSCakh37P;BA61=24=R];3
+InK=?E?B^e^?][U5=>Y>Gk1
+R0
+R1
+w1720850959
+8D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v
+FD:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720850960.000000
+!s107 D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v|
+!i113 1
+R3
+R4
+n@shift_opr
