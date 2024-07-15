@@ -1,9 +1,9 @@
-{D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v}
+{D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module Shift_opr
+-- Compiling module logical_opr
 
 Top level modules:
-	Shift_opr
+	logical_opr
 
 } {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Bitwise_operators.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -12,12 +12,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	Bitwise_opr
 
-} {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Logical_operators.v}
+} {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Shift_operator.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module logical_opr
+-- Compiling module Shift_opr
 
 Top level modules:
-	logical_opr
+	Shift_opr
 
 } {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Relational_operator.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -26,18 +26,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	Relational_opr
 
-} {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module Equality_opr
-
-Top level modules:
-	Equality_opr
-
 } {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Arithmetic_operators.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module Arithmetci_ops
 
 Top level modules:
 	Arithmetci_ops
+
+} {} {}} {D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/11_verilog_operators/Equality_operators.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Equality_opr
+
+Top level modules:
+	Equality_opr
 
 } {} {}}

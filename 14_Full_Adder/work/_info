@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/13_half_adder
+vfull_adder
+!s110 1721018605
+!i10b 1
+!s100 bHn1<H]TM^3ooR<E_]J0Z2
+I[lHenCbK5b6WBej`<kL6k1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/14_Full_Adder
+w1721018602
+8D:/VLSI Design/verilog_practice/14_Full_Adder/Full_Adder.v
+FD:/VLSI Design/verilog_practice/14_Full_Adder/Full_Adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1721018605.000000
+!s107 D:/VLSI Design/verilog_practice/14_Full_Adder/Full_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/14_Full_Adder/Full_Adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtestbench
+!s110 1721019464
+!i10b 1
+!s100 `z66?c3UamMe8_4GF:nGQ2
+IVL5jX@b?Fbl9iJiUMh>n80
+R0
+R1
+w1721019462
+8D:/VLSI Design/verilog_practice/14_Full_Adder/testbench.v
+FD:/VLSI Design/verilog_practice/14_Full_Adder/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1721019464.000000
+!s107 D:/VLSI Design/verilog_practice/14_Full_Adder/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/14_Full_Adder/testbench.v|
+!i113 1
+R3
+R4

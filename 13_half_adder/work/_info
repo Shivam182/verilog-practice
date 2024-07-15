@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/12_concatenation
+vhalf_adder
+!s110 1721017621
+!i10b 1
+!s100 Gb79?1MgNS7;M=T4ca8Ng3
+I;bkeU@]WB?]SV]l0L8L4R0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/13_half_adder
+w1721017619
+8D:/VLSI Design/verilog_practice/13_half_adder/Half_Adder.v
+FD:/VLSI Design/verilog_practice/13_half_adder/Half_Adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1721017621.000000
+!s107 D:/VLSI Design/verilog_practice/13_half_adder/Half_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/13_half_adder/Half_Adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtestbench
+!s110 1721017628
+!i10b 1
+!s100 fA]NK8;b:[?302M=9W2oK2
+IQJiS<c10M2j>O^CgQ<nG;0
+R0
+R1
+w1721017298
+8D:/VLSI Design/verilog_practice/13_half_adder/Testbench.v
+FD:/VLSI Design/verilog_practice/13_half_adder/Testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1721017628.000000
+!s107 D:/VLSI Design/verilog_practice/13_half_adder/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/13_half_adder/Testbench.v|
+!i113 1
+R3
+R4
