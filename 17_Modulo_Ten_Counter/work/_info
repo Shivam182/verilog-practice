@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/16_Demux
+vcounter
+!s110 1721098266
+!i10b 1
+!s100 ElMknlKB9WiEKBZY>[T5B1
+I[L0RWmWm2RJFY<kmgJ^eT3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter
+w1721098256
+8D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v
+FD:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1721098266.000000
+!s107 D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtestbench
+!s110 1721099430
+!i10b 1
+!s100 EkAE>Uiblbh_UWj9nfR050
+IL@6d=2XLYo<4c2nS8Xe?:1
+R0
+R1
+w1721099101
+8D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v
+FD:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1721099430.000000
+!s107 D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v|
+!i113 1
+R3
+R4

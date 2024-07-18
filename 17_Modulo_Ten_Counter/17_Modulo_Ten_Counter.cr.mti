@@ -1,0 +1,15 @@
+{D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v} {1 {vlog -work work -stats=none {D:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

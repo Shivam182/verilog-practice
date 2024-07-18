@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI Design/verilog_practice/17_Modulo_Ten_Counter
+vgate_modeling
+!s110 1721276800
+!i10b 1
+!s100 oR8`bYM9z]EIG?J]h9Z262
+I6:^KjQKb=]FX^kCLJIeK>0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/VLSI Design/verilog_practice/18_Gate_Level_Modelling
+w1721276784
+8D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/gate_modeling.v
+FD:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/gate_modeling.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1721276800.000000
+!s107 D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/gate_modeling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/gate_modeling.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtestbench
+!s110 1721276804
+!i10b 1
+!s100 H>RPe?`O=GCB[VgkO]@gc2
+IPC=j5ZokNY35^:D7dAZgK2
+R0
+R1
+w1721272484
+8D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/trestbench.v
+FD:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/trestbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1721276804.000000
+!s107 D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/trestbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Design/verilog_practice/18_Gate_Level_Modelling/trestbench.v|
+!i113 1
+R3
+R4
